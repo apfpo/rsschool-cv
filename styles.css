@@ -1,0 +1,16 @@
+.box{
+	text-align: center;
+	max-width: 1024px;
+	margin-right: 150px;
+	margin-left: 150px;
+	text-indent: 50px;
+}
+p{
+	text-indent: 25px;
+}
+img{
+	height: 10%;
+	width: 10%;
+	float: right;
+	margin: 10px;
+}
