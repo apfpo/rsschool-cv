@@ -1,1 +1,1 @@
-https://apfpo.github.io/rsschool-cv/cv 
+https://apfpo.github.io/rsschool-cv/
